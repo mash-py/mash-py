@@ -27,38 +27,9 @@ class AboutMe:
     hobbies    = ["coding", "teaching", "Dota 2", "anime", "learning", "travel"]
     currently  = "researching how neural networks think from the inside"
     learning   = ["C", "ML", "Math", "Computer Science", "System Design"]
-    belief     = "Consciousness is like a protocol"
+    belief     = "PEACE IN THE WORLD"
 
 ```
-
-<br/>
-
-## 🐸 `what i'm working on`
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🔬 Interp Research
-Independent **mechanistic interpretability** research — looking for directions inside models that shape their behavior.
-
-</td>
-<td width="33%" valign="top">
-
-### 🐍 PYTHONCRAFT
-My own **Python course for kids** — from first `print()` to games in Pygame.
-
-</td>
-<td width="33%" valign="top">
-
-### 🎨 WEBCRAFT
-An **HTML/CSS course for kids** — building first websites step by step.
-
-</td>
-</tr>
-</table>
-
-<br/>
 
 ## 🌿 `skills & tools`
 
