@@ -21,8 +21,8 @@
 ```python
 class AboutMe:
     name       = "Maria"
-    role       = ["Python Teacher 🐍", "AI Researcher 🔬", "Developer 💻"]
-    based_in   = "🌍 Earth (nomad since 2023)"
+    role       = ["Python Teacher", "AI Researcher", "Developer"]
+    based_in   = "🌍 Earth"
     languages  = ["Python", "English", "Russian"]
     hobbies    = ["coding", "teaching", "Dota 2", "anime", "learning", "travel"]
     currently  = "researching how neural networks think from the inside"
