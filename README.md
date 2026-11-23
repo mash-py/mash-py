@@ -72,6 +72,7 @@ class AboutMe:
 [![Portfolio](https://img.shields.io/badge/Portfolio-BFFF80?style=for-the-badge&logo=githubpages&logoColor=5b3e96)](https://mash-py.github.io/Mash/)
 [![Telegram](https://img.shields.io/badge/Telegram-C3A6FF?style=for-the-badge&logo=telegram&logoColor=5b3e96)](https://t.me/samadhi404)
 [![Instagram](https://img.shields.io/badge/Instagram-FF9BCC?style=for-the-badge&logo=instagram&logoColor=5b3e96)](https://instagram.com/shanti.sabai)
+[![Email](https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=5b3e96)](mailto:samadhix404@gmail.com)
 
 </div>
 
