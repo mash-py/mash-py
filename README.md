@@ -3,7 +3,7 @@
 <img src="./header.svg" width="100%" alt="Hello Earth!"/>
 
 <a href="https://github.com/mary-angel-x">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=14&pause=1200&color=5CC98A&center=true&vCenter=true&width=620&lines=Python+Teacher+%F0%9F%90%8D;AI+Researcher+%F0%9F%A4%96;Mechanistic+Interpretability+%F0%9F%A7%A0;Curious+Developer+%F0%9F%92%BB;Nomad+%F0%9F%8C%B4;Vegan+for+the+animals" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=14&pause=1200&color=5CC98A&center=true&vCenter=true&width=620&lines=Python+Teacher;AI+Researcher;Mechanistic+Interpretability;Curious+Developer;Vegan+for+the+animals" alt="typing" />
 </a>
 
 <img src="./divider.svg" width="100%" alt="010101"/>
